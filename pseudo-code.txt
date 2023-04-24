@@ -1,0 +1,24 @@
+1 - Initiliaze two variable to get the age the user will input.
+    (current age, desired age)
+
+2 - Ask user his / her age 
+    "Please enter your current age"
+
+3 - Check the input if it is valid number
+    (it should be a number and greater than 0)
+    Otherwise going back to step 2
+
+4 - Ask user his / her age at which he wants to retire
+    "Please enter the age you want to retire"
+
+5 - Repeat step 2 
+    and (it should be also greater than current age)
+    Otherwise going back to step 4
+
+6 - Calculate the age, the year and left time for  user's retiring
+    (left time :substraction for current age and future age)
+    (the year: substraction for current year and future year)
+
+7- Print the result 
+    (You will be retired in xxxx)
+    (Now, xx left year for your retirement)

@@ -1,0 +1,12 @@
+Inputs:
+    - user's current age
+    - age at which the user want to retire
+
+Output:
+    - Current year and how much time is left for retiring
+    - What year the user will retire.
+
+Constraints:
+    - User's age given must be greater than 0 and less than 65
+    - The second input should be also greater than current age
+    - All the inputs should be a valid number
